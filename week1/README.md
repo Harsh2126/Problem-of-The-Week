@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week 1 - Problem of The Week
 
 This folder contains solutions to algorithmic problems for Week 1. Each file includes a brief explanation of the problem and the approach used to solve it.
@@ -20,6 +21,7 @@ Given a rotated sorted array, find the minimum element. The array does not conta
 
 **Approach:**
 - Uses binary search to efficiently find the minimum element in O(log n) time.
+
 - Checks the middle element and determines which half of the array to search next based on the sorted property.
 
 **Time Complexity:** O(log n)
@@ -39,4 +41,4 @@ Given an array of integers and an integer `k`, find the total number of continuo
 
 ---
 
-**Note:** This README documents all files in the `week1` directory. The order of files in your file explorer may vary, but you can always refer to this README for explanations of each code file. 
+**Note:** This README documents all files in the `week1` directory. The order of files in your file explorer may vary, but you can always refer to this README for explanations of each code file.
